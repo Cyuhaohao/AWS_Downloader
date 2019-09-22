@@ -3,11 +3,11 @@ game_uuid: '7fc9e7c9-d622-4bee-a4e1-518a87435171'
 
 aws_s3:
   s3_config:
-    s3_bucket: hsck-asset-usage
+    s3_bucket: xxx
     s3_client_config:
       region: us-east-1
-      access_key_id: AKIASV26NSQPIR7ZVFVC
-      secret_access_key: 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
+      access_key_id: xxx
+      secret_access_key: xxx
 
   remote_path: 'AssetUsage/{env}'
   local_path: '../_work/{env}'
@@ -15,8 +15,8 @@ aws_s3:
 
 mysql:
   mysql_config:
-    host: 10.192.93.4
-    port: 3306
+    host: xxx
+    port: xxx
     username: omega_dev
     password: omega_dev@pass
     database: omega

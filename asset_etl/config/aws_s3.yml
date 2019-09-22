@@ -1,5 +1,5 @@
-s3_bucket: hsck-asset-usage
+s3_bucket: xxx
 s3_client_config:
   region: cn-north-1
-  access_key_id: AKIASV26NSQPIR7ZVFVC
-  secret_access_key: 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
+  access_key_id: xxx
+  secret_access_key: xxx

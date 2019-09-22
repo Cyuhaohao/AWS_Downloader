@@ -1,4 +1,4 @@
-host: 10.192.93.4
-port: 3306
+host: xxx
+port: xxx
 username: omega
 password: omega_dev@pass
