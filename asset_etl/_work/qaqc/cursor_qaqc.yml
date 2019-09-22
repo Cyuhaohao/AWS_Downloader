@@ -1,0 +1,1483 @@
+---
+:bucket: hsck-asset-usage
+:prefix: AssetUsage/qaqc
+:modified_time: 1562724853
+:next_key: 2019/07/09
+:finished_keys:
+  :2019/06/28:
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_0:
+      :key: AssetUsage/qaqc/2019/06/28/shark-asset-usage-deployment-7b54cd56c5-85mh9_0
+      :content_length: 62002
+      :last_modified: 2019-06-28 07:48:47.000000000 +00:00
+      :etag: '"c157234ec5af27ca46e8c2873ef6381c"'
+      :finish_time: 1562572529
+      :gzip:
+        :line_count: 18370
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_1:
+      :key: AssetUsage/qaqc/2019/06/28/shark-asset-usage-deployment-7b54cd56c5-85mh9_1
+      :content_length: 181829
+      :last_modified: 2019-06-28 08:18:50.000000000 +00:00
+      :etag: '"c0f8c6df612949eaf759c521fa84d1cf"'
+      :finish_time: 1562572541
+      :gzip:
+        :line_count: 62935
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_10:
+      :key: AssetUsage/qaqc/2019/06/28/shark-asset-usage-deployment-7b54cd56c5-85mh9_10
+      :content_length: 17656
+      :last_modified: 2019-06-28 12:49:00.000000000 +00:00
+      :etag: '"d93c1d34b6dc54f40e4402b29b83f769"'
+      :finish_time: 1562572543
+      :gzip:
+        :line_count: 5587
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_18:
+      :key: AssetUsage/qaqc/2019/06/28/shark-asset-usage-deployment-7b54cd56c5-85mh9_18
+      :content_length: 392
+      :last_modified: 2019-06-28 16:49:13.000000000 +00:00
+      :etag: '"4d8716b7b274c9eb3a124e86528b8c23"'
+      :finish_time: 1562572543
+      :gzip:
+        :line_count: 13
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_2:
+      :key: AssetUsage/qaqc/2019/06/28/shark-asset-usage-deployment-7b54cd56c5-85mh9_2
+      :content_length: 123750
+      :last_modified: 2019-06-28 08:48:50.000000000 +00:00
+      :etag: '"13ea9f6cb1117adc2d9fc6cf29ebacd7"'
+      :finish_time: 1562572549
+      :gzip:
+        :line_count: 34666
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_3:
+      :key: AssetUsage/qaqc/2019/06/28/shark-asset-usage-deployment-7b54cd56c5-85mh9_3
+      :content_length: 223598
+      :last_modified: 2019-06-28 09:18:51.000000000 +00:00
+      :etag: '"4b5df37460b50c2134e7a77764e1cd20"'
+      :finish_time: 1562572562
+      :gzip:
+        :line_count: 83176
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_4:
+      :key: AssetUsage/qaqc/2019/06/28/shark-asset-usage-deployment-7b54cd56c5-85mh9_4
+      :content_length: 58403
+      :last_modified: 2019-06-28 09:48:52.000000000 +00:00
+      :etag: '"ce6ac4183d37d2f899607935989d0781"'
+      :finish_time: 1562572566
+      :gzip:
+        :line_count: 17841
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_5:
+      :key: AssetUsage/qaqc/2019/06/28/shark-asset-usage-deployment-7b54cd56c5-85mh9_5
+      :content_length: 64163
+      :last_modified: 2019-06-28 10:18:53.000000000 +00:00
+      :etag: '"0543ec757fb7a553167d974d39216251"'
+      :finish_time: 1562572571
+      :gzip:
+        :line_count: 20373
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_6:
+      :key: AssetUsage/qaqc/2019/06/28/shark-asset-usage-deployment-7b54cd56c5-85mh9_6
+      :content_length: 68040
+      :last_modified: 2019-06-28 10:48:54.000000000 +00:00
+      :etag: '"ab5fe8d54897534b2d06496cd98b3f5b"'
+      :finish_time: 1562572576
+      :gzip:
+        :line_count: 19608
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_7:
+      :key: AssetUsage/qaqc/2019/06/28/shark-asset-usage-deployment-7b54cd56c5-85mh9_7
+      :content_length: 15385
+      :last_modified: 2019-06-28 11:18:55.000000000 +00:00
+      :etag: '"cdd414b7192a87047d50da02c26238bd"'
+      :finish_time: 1562572578
+      :gzip:
+        :line_count: 3818
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_8:
+      :key: AssetUsage/qaqc/2019/06/28/shark-asset-usage-deployment-7b54cd56c5-85mh9_8
+      :content_length: 6218
+      :last_modified: 2019-06-28 11:48:57.000000000 +00:00
+      :etag: '"af600d5e007f1bbd3dfc214c6091293a"'
+      :finish_time: 1562572578
+      :gzip:
+        :line_count: 1244
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_9:
+      :key: AssetUsage/qaqc/2019/06/28/shark-asset-usage-deployment-7b54cd56c5-85mh9_9
+      :content_length: 42623
+      :last_modified: 2019-06-28 12:18:58.000000000 +00:00
+      :etag: '"b1f2598f1c08d57cb03fd6ca833bb3d9"'
+      :finish_time: 1562572580
+      :gzip:
+        :line_count: 12255
+  :2019/06/29:
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_10:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_10
+      :content_length: 58245
+      :last_modified: 2019-06-29 05:30:17.000000000 +00:00
+      :etag: '"7223af7cc9b86d9f28ca6522a9b0bf8a"'
+      :finish_time: 1562572584
+      :gzip:
+        :line_count: 17463
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_11:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_11
+      :content_length: 31438
+      :last_modified: 2019-06-29 06:00:18.000000000 +00:00
+      :etag: '"da309425f827b84f9c8eabe08fe956f1"'
+      :finish_time: 1562572586
+      :gzip:
+        :line_count: 9130
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_12:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_12
+      :content_length: 3084
+      :last_modified: 2019-06-29 06:30:20.000000000 +00:00
+      :etag: '"3ccb31e77edea96f3dfe4cf6988521ef"'
+      :finish_time: 1562572587
+      :gzip:
+        :line_count: 440
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_13:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_13
+      :content_length: 34897
+      :last_modified: 2019-06-29 07:00:21.000000000 +00:00
+      :etag: '"dec539feacb30b2a4ec27d5cc8ff59a3"'
+      :finish_time: 1562572589
+      :gzip:
+        :line_count: 11131
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_14:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_14
+      :content_length: 85691
+      :last_modified: 2019-06-29 07:30:22.000000000 +00:00
+      :etag: '"4a006a6b30de54bf5dcd4b0b64a0c8ff"'
+      :finish_time: 1562572593
+      :gzip:
+        :line_count: 24581
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_15:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_15
+      :content_length: 96552
+      :last_modified: 2019-06-29 08:00:24.000000000 +00:00
+      :etag: '"07d137ac07177fade7a4ba6c5863a9ae"'
+      :finish_time: 1562572599
+      :gzip:
+        :line_count: 28931
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_16:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_16
+      :content_length: 108262
+      :last_modified: 2019-06-29 08:30:25.000000000 +00:00
+      :etag: '"1bce0a7c5a1d43b1109b45d6c281c431"'
+      :finish_time: 1562572605
+      :gzip:
+        :line_count: 32018
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_17:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_17
+      :content_length: 77907
+      :last_modified: 2019-06-29 09:00:27.000000000 +00:00
+      :etag: '"e56d370f682917f7ecc8726d0eb1a41b"'
+      :finish_time: 1562572609
+      :gzip:
+        :line_count: 19038
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_18:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_18
+      :content_length: 75809
+      :last_modified: 2019-06-29 09:30:28.000000000 +00:00
+      :etag: '"6a28c6f0fdb833973f4f8d02b5326ff6"'
+      :finish_time: 1562572614
+      :gzip:
+        :line_count: 20936
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_19:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_19
+      :content_length: 1308
+      :last_modified: 2019-06-29 10:00:28.000000000 +00:00
+      :etag: '"980383c331edc00f4d3a5e7384359770"'
+      :finish_time: 1562572615
+      :gzip:
+        :line_count: 216
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_20:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_20
+      :content_length: 354
+      :last_modified: 2019-06-29 10:30:31.000000000 +00:00
+      :etag: '"e4424cfcd382c718680606ec73b4e787"'
+      :finish_time: 1562572615
+      :gzip:
+        :line_count: 11
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_21:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_21
+      :content_length: 5600
+      :last_modified: 2019-06-29 11:00:31.000000000 +00:00
+      :etag: '"55894d84d1090b6b12cf081f7be2336b"'
+      :finish_time: 1562572616
+      :gzip:
+        :line_count: 980
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_3:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_3
+      :content_length: 21887
+      :last_modified: 2019-06-29 02:00:09.000000000 +00:00
+      :etag: '"1dd6b406a751b81b8f0f4f2e576fd658"'
+      :finish_time: 1562572617
+      :gzip:
+        :line_count: 6519
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_4:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_4
+      :content_length: 24852
+      :last_modified: 2019-06-29 02:30:10.000000000 +00:00
+      :etag: '"6605670479a62461d6d1cd64ca5037b2"'
+      :finish_time: 1562572618
+      :gzip:
+        :line_count: 7246
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_5:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_5
+      :content_length: 106782
+      :last_modified: 2019-06-29 03:00:11.000000000 +00:00
+      :etag: '"ac449d66a217d4a5d4835e4efed46987"'
+      :finish_time: 1562572624
+      :gzip:
+        :line_count: 32321
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_6:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_6
+      :content_length: 108928
+      :last_modified: 2019-06-29 03:30:13.000000000 +00:00
+      :etag: '"dc22c385ff7e6a96917a57e06ee5b7b3"'
+      :finish_time: 1562572631
+      :gzip:
+        :line_count: 42837
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_7:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_7
+      :content_length: 129975
+      :last_modified: 2019-06-29 04:00:15.000000000 +00:00
+      :etag: '"c9248f5cbed9b1771a5a0af11fce8046"'
+      :finish_time: 1562572640
+      :gzip:
+        :line_count: 49932
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_8:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_8
+      :content_length: 101415
+      :last_modified: 2019-06-29 04:30:15.000000000 +00:00
+      :etag: '"29722023bd366c6e8e6d50bc3bd60223"'
+      :finish_time: 1562572649
+      :gzip:
+        :line_count: 46524
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_9:
+      :key: AssetUsage/qaqc/2019/06/29/shark-asset-usage-deployment-7b54cd56c5-85mh9_9
+      :content_length: 66595
+      :last_modified: 2019-06-29 05:00:16.000000000 +00:00
+      :etag: '"56777f8e6f2da335cbb647343e78e0f6"'
+      :finish_time: 1562572653
+      :gzip:
+        :line_count: 21343
+  :2019/06/30:
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_25:
+      :key: AssetUsage/qaqc/2019/06/30/shark-asset-usage-deployment-7b54cd56c5-85mh9_25
+      :content_length: 381
+      :last_modified: 2019-06-30 13:00:45.000000000 +00:00
+      :etag: '"74996f55156155c718d87d84c9a751fe"'
+      :finish_time: 1562572655
+      :gzip:
+        :line_count: 12
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_26:
+      :key: AssetUsage/qaqc/2019/06/30/shark-asset-usage-deployment-7b54cd56c5-85mh9_26
+      :content_length: 7584
+      :last_modified: 2019-06-30 13:30:46.000000000 +00:00
+      :etag: '"a158b885881a54a833cb441b75f0ea18"'
+      :finish_time: 1562572656
+      :gzip:
+        :line_count: 1705
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_28:
+      :key: AssetUsage/qaqc/2019/06/30/shark-asset-usage-deployment-7b54cd56c5-85mh9_28
+      :content_length: 2581
+      :last_modified: 2019-06-30 14:30:49.000000000 +00:00
+      :etag: '"0da3c515d4f289f5dcd73ae32fdbe2cb"'
+      :finish_time: 1562572656
+      :gzip:
+        :line_count: 406
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_29:
+      :key: AssetUsage/qaqc/2019/06/30/shark-asset-usage-deployment-7b54cd56c5-85mh9_29
+      :content_length: 4755
+      :last_modified: 2019-06-30 15:00:51.000000000 +00:00
+      :etag: '"f536bdaf2307f71738a417c3143320b5"'
+      :finish_time: 1562572656
+      :gzip:
+        :line_count: 1039
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_30:
+      :key: AssetUsage/qaqc/2019/06/30/shark-asset-usage-deployment-7b54cd56c5-85mh9_30
+      :content_length: 6572
+      :last_modified: 2019-06-30 15:30:53.000000000 +00:00
+      :etag: '"6910ac744ddce8a5e5cc9c0a22b1cfb9"'
+      :finish_time: 1562572657
+      :gzip:
+        :line_count: 1695
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_31:
+      :key: AssetUsage/qaqc/2019/06/30/shark-asset-usage-deployment-7b54cd56c5-85mh9_31
+      :content_length: 3985
+      :last_modified: 2019-06-30 16:00:54.000000000 +00:00
+      :etag: '"926044f055a74ff2a94f2979535c3ea4"'
+      :finish_time: 1562572658
+      :gzip:
+        :line_count: 845
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_32:
+      :key: AssetUsage/qaqc/2019/06/30/shark-asset-usage-deployment-7b54cd56c5-85mh9_32
+      :content_length: 1592
+      :last_modified: 2019-06-30 16:30:56.000000000 +00:00
+      :etag: '"793f819dca2373c92a7522e8af9a1643"'
+      :finish_time: 1562572658
+      :gzip:
+        :line_count: 379
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_33:
+      :key: AssetUsage/qaqc/2019/06/30/shark-asset-usage-deployment-7b54cd56c5-85mh9_33
+      :content_length: 5984
+      :last_modified: 2019-06-30 17:00:57.000000000 +00:00
+      :etag: '"967df79a88f1b154d9a4717fcac2f18c"'
+      :finish_time: 1562572658
+      :gzip:
+        :line_count: 1193
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_5:
+      :key: AssetUsage/qaqc/2019/06/30/shark-asset-usage-deployment-7b54cd56c5-85mh9_5
+      :content_length: 379
+      :last_modified: 2019-06-30 03:00:11.000000000 +00:00
+      :etag: '"67ead9c1673e4aad2802513c6f747579"'
+      :finish_time: 1562572659
+      :gzip:
+        :line_count: 12
+  :2019/07/01:
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_10:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7b54cd56c5-85mh9_10
+      :content_length: 6440
+      :last_modified: 2019-07-01 05:30:17.000000000 +00:00
+      :etag: '"3da1db4d27e76e083c6dc662fcc20ae0"'
+      :finish_time: 1562572660
+      :gzip:
+        :line_count: 1302
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_3:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7b54cd56c5-85mh9_3
+      :content_length: 19254
+      :last_modified: 2019-07-01 02:00:07.000000000 +00:00
+      :etag: '"624b67c4f0fb7f5ac09276cd12e487d7"'
+      :finish_time: 1562572661
+      :gzip:
+        :line_count: 6003
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_4:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7b54cd56c5-85mh9_4
+      :content_length: 89466
+      :last_modified: 2019-07-01 02:30:08.000000000 +00:00
+      :etag: '"e8ceb895e55d1fe9324d49abeaa41c84"'
+      :finish_time: 1562572665
+      :gzip:
+        :line_count: 28574
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_5:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7b54cd56c5-85mh9_5
+      :content_length: 154188
+      :last_modified: 2019-07-01 03:00:11.000000000 +00:00
+      :etag: '"a7002d88a822f586f2f4d9f5396ac361"'
+      :finish_time: 1562572675
+      :gzip:
+        :line_count: 55876
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_6:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7b54cd56c5-85mh9_6
+      :content_length: 223196
+      :last_modified: 2019-07-01 03:30:13.000000000 +00:00
+      :etag: '"f4ddd72a57317f92149de204a598d1d7"'
+      :finish_time: 1562572689
+      :gzip:
+        :line_count: 84676
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_7:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7b54cd56c5-85mh9_7
+      :content_length: 19639
+      :last_modified: 2019-07-01 04:00:13.000000000 +00:00
+      :etag: '"3b3b81d64b3e06e417b457ab5622fa89"'
+      :finish_time: 1562572691
+      :gzip:
+        :line_count: 4937
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_8:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7b54cd56c5-85mh9_8
+      :content_length: 8805
+      :last_modified: 2019-07-01 04:30:14.000000000 +00:00
+      :etag: '"b4aa1537a1da5616ae4a3dd22f952339"'
+      :finish_time: 1562572692
+      :gzip:
+        :line_count: 1777
+    :shark-asset-usage-deployment-7b54cd56c5-85mh9_9:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7b54cd56c5-85mh9_9
+      :content_length: 34541
+      :last_modified: 2019-07-01 05:00:16.000000000 +00:00
+      :etag: '"c9e3362d904525a086709d26d5056289"'
+      :finish_time: 1562572694
+      :gzip:
+        :line_count: 10301
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_0:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7d5c8469c-m22k2_0
+      :content_length: 47544
+      :last_modified: 2019-07-01 06:23:35.000000000 +00:00
+      :etag: '"8b833116cbb1d4b6a3d8ef6d91b5bb34"'
+      :finish_time: 1562572695
+      :gzip:
+        :line_count: 12554
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_1:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7d5c8469c-m22k2_1
+      :content_length: 121693
+      :last_modified: 2019-07-01 06:53:38.000000000 +00:00
+      :etag: '"a927389b233118de823fed86a16f0749"'
+      :finish_time: 1562572703
+      :gzip:
+        :line_count: 46410
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_10:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7d5c8469c-m22k2_10
+      :content_length: 97972
+      :last_modified: 2019-07-01 11:23:51.000000000 +00:00
+      :etag: '"adb84bbad2aa754c377246f9b91402bd"'
+      :finish_time: 1562572709
+      :gzip:
+        :line_count: 30502
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_11:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7d5c8469c-m22k2_11
+      :content_length: 50374
+      :last_modified: 2019-07-01 11:53:52.000000000 +00:00
+      :etag: '"d5e9ef4684cc28c2ead81e0cc40201a9"'
+      :finish_time: 1562572713
+      :gzip:
+        :line_count: 18658
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_12:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7d5c8469c-m22k2_12
+      :content_length: 76874
+      :last_modified: 2019-07-01 12:23:54.000000000 +00:00
+      :etag: '"6ab897c25c0e4198cd71416a5c0cc781"'
+      :finish_time: 1562572719
+      :gzip:
+        :line_count: 28261
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_13:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7d5c8469c-m22k2_13
+      :content_length: 2447
+      :last_modified: 2019-07-01 12:53:54.000000000 +00:00
+      :etag: '"eafb9623d427462a23475901e5c14416"'
+      :finish_time: 1562572721
+      :gzip:
+        :line_count: 538
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_2:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7d5c8469c-m22k2_2
+      :content_length: 167912
+      :last_modified: 2019-07-01 07:23:39.000000000 +00:00
+      :etag: '"36f025db582d18eb96585fdf7ab78fb6"'
+      :finish_time: 1562572731
+      :gzip:
+        :line_count: 68851
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_3:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7d5c8469c-m22k2_3
+      :content_length: 103665
+      :last_modified: 2019-07-01 07:53:40.000000000 +00:00
+      :etag: '"e916168c817e98e951f7f2a3ff3d85c7"'
+      :finish_time: 1562572737
+      :gzip:
+        :line_count: 28215
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_4:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7d5c8469c-m22k2_4
+      :content_length: 126255
+      :last_modified: 2019-07-01 08:23:42.000000000 +00:00
+      :etag: '"18443f5dac28be381450220dc40aff70"'
+      :finish_time: 1562572745
+      :gzip:
+        :line_count: 37272
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_5:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7d5c8469c-m22k2_5
+      :content_length: 178781
+      :last_modified: 2019-07-01 08:53:45.000000000 +00:00
+      :etag: '"bab98e9c8db40b9e8c6c13ed96c6a446"'
+      :finish_time: 1562572754
+      :gzip:
+        :line_count: 52864
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_6:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7d5c8469c-m22k2_6
+      :content_length: 220168
+      :last_modified: 2019-07-01 09:23:46.000000000 +00:00
+      :etag: '"4ca636c8935e73ed9cbfb6d802e947e6"'
+      :finish_time: 1562572765
+      :gzip:
+        :line_count: 65215
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_7:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7d5c8469c-m22k2_7
+      :content_length: 145931
+      :last_modified: 2019-07-01 09:53:48.000000000 +00:00
+      :etag: '"451655bf8fecd0ab34e6a6b41ad827e8"'
+      :finish_time: 1562572773
+      :gzip:
+        :line_count: 41988
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_8:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7d5c8469c-m22k2_8
+      :content_length: 106497
+      :last_modified: 2019-07-01 10:23:49.000000000 +00:00
+      :etag: '"d7a0f24772c2fb871b3b8d5a2cadf320"'
+      :finish_time: 1562572779
+      :gzip:
+        :line_count: 30736
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_9:
+      :key: AssetUsage/qaqc/2019/07/01/shark-asset-usage-deployment-7d5c8469c-m22k2_9
+      :content_length: 44512
+      :last_modified: 2019-07-01 10:53:50.000000000 +00:00
+      :etag: '"bccb0b0ee1822d113f42359f3107ed6b"'
+      :finish_time: 1562572782
+      :gzip:
+        :line_count: 10174
+  :2019/07/02:
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_000:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-5cdfd47775-g5tc4_000
+      :content_length: 73440
+      :last_modified: 2019-07-02 09:00:11.000000000 +00:00
+      :etag: '"371b2f43a65a86eaaf6128954998c64b"'
+      :finish_time: 1562572787
+      :gzip:
+        :line_count: 22468
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_001:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-5cdfd47775-g5tc4_001
+      :content_length: 40596
+      :last_modified: 2019-07-02 09:30:12.000000000 +00:00
+      :etag: '"3df4c81f817e97e82b16d8a87a550a98"'
+      :finish_time: 1562572790
+      :gzip:
+        :line_count: 11861
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_002:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-5cdfd47775-g5tc4_002
+      :content_length: 8950
+      :last_modified: 2019-07-02 10:00:14.000000000 +00:00
+      :etag: '"800c66cf13f5452796af1b19d1d6b849"'
+      :finish_time: 1562572791
+      :gzip:
+        :line_count: 1744
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_003:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-5cdfd47775-g5tc4_003
+      :content_length: 49621
+      :last_modified: 2019-07-02 10:30:15.000000000 +00:00
+      :etag: '"0c0e524c10fd6f31b765026498f18dd8"'
+      :finish_time: 1562572794
+      :gzip:
+        :line_count: 15539
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_004:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-5cdfd47775-g5tc4_004
+      :content_length: 44833
+      :last_modified: 2019-07-02 11:00:16.000000000 +00:00
+      :etag: '"173f64dd78a38e636b5ed48211a52e08"'
+      :finish_time: 1562572797
+      :gzip:
+        :line_count: 12997
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_005:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-5cdfd47775-g5tc4_005
+      :content_length: 70972
+      :last_modified: 2019-07-02 11:30:17.000000000 +00:00
+      :etag: '"24ce6bbc21fd3ec337f2fcff04674579"'
+      :finish_time: 1562572801
+      :gzip:
+        :line_count: 23313
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_006:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-5cdfd47775-g5tc4_006
+      :content_length: 41283
+      :last_modified: 2019-07-02 12:00:18.000000000 +00:00
+      :etag: '"47b4002f52d63b8d9ba1aeda1e58cd5b"'
+      :finish_time: 1562572804
+      :gzip:
+        :line_count: 7768
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_007:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-5cdfd47775-g5tc4_007
+      :content_length: 37852
+      :last_modified: 2019-07-02 12:30:21.000000000 +00:00
+      :etag: '"3fad1ee34cd55f6eb229cb217f215196"'
+      :finish_time: 1562572806
+      :gzip:
+        :line_count: 9987
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_008:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-5cdfd47775-g5tc4_008
+      :content_length: 12524
+      :last_modified: 2019-07-02 13:00:21.000000000 +00:00
+      :etag: '"e2ffbf7d0d939615c06eb400d271b9f2"'
+      :finish_time: 1562572806
+      :gzip:
+        :line_count: 1140
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_009:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-5cdfd47775-g5tc4_009
+      :content_length: 3809
+      :last_modified: 2019-07-02 13:30:23.000000000 +00:00
+      :etag: '"4654e4715a303d0213b26cda52cba4cf"'
+      :finish_time: 1562572807
+      :gzip:
+        :line_count: 386
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_010:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-5cdfd47775-g5tc4_010
+      :content_length: 283
+      :last_modified: 2019-07-02 14:00:24.000000000 +00:00
+      :etag: '"a3d430f93cc27ddc598020e93cdd0f91"'
+      :finish_time: 1562572807
+      :gzip:
+        :line_count: 4
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_1:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-7d5c8469c-m22k2_1
+      :content_length: 2655
+      :last_modified: 2019-07-02 01:00:09.000000000 +00:00
+      :etag: '"845b9dfbae6c35ab0214fdc996a4546a"'
+      :finish_time: 1562572807
+      :gzip:
+        :line_count: 570
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_10:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-7d5c8469c-m22k2_10
+      :content_length: 107294
+      :last_modified: 2019-07-02 05:30:19.000000000 +00:00
+      :etag: '"899a1e696d38b7cae89dec90865882ed"'
+      :finish_time: 1562572813
+      :gzip:
+        :line_count: 37558
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_11:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-7d5c8469c-m22k2_11
+      :content_length: 68738
+      :last_modified: 2019-07-02 06:00:20.000000000 +00:00
+      :etag: '"1ee2fb18c7c9fc18dd1545430fe7fdc2"'
+      :finish_time: 1562572818
+      :gzip:
+        :line_count: 19880
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_12:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-7d5c8469c-m22k2_12
+      :content_length: 69419
+      :last_modified: 2019-07-02 06:30:21.000000000 +00:00
+      :etag: '"7a58319b1709bb4ddbd61ddff3c0451d"'
+      :finish_time: 1562572821
+      :gzip:
+        :line_count: 13653
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_13:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-7d5c8469c-m22k2_13
+      :content_length: 18751
+      :last_modified: 2019-07-02 07:00:24.000000000 +00:00
+      :etag: '"04e790f1438864e29be3861c0fba90ea"'
+      :finish_time: 1562572823
+      :gzip:
+        :line_count: 3607
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_14:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-7d5c8469c-m22k2_14
+      :content_length: 8881
+      :last_modified: 2019-07-02 07:30:24.000000000 +00:00
+      :etag: '"9bec8fdc43f469817dcdf4d61e014f63"'
+      :finish_time: 1562572823
+      :gzip:
+        :line_count: 2194
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_15:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-7d5c8469c-m22k2_15
+      :content_length: 45390
+      :last_modified: 2019-07-02 08:00:27.000000000 +00:00
+      :etag: '"7fac997dac16d3ffdc98d2b2f58c2406"'
+      :finish_time: 1562572825
+      :gzip:
+        :line_count: 9228
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_2:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-7d5c8469c-m22k2_2
+      :content_length: 15748
+      :last_modified: 2019-07-02 01:30:06.000000000 +00:00
+      :etag: '"b9144159e10ae06f4134996c22b000fb"'
+      :finish_time: 1562572826
+      :gzip:
+        :line_count: 4325
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_3:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-7d5c8469c-m22k2_3
+      :content_length: 93768
+      :last_modified: 2019-07-02 02:00:07.000000000 +00:00
+      :etag: '"98f7f9e97183dbb3e9e62574a969f436"'
+      :finish_time: 1562572830
+      :gzip:
+        :line_count: 25849
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_4:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-7d5c8469c-m22k2_4
+      :content_length: 42053
+      :last_modified: 2019-07-02 02:30:08.000000000 +00:00
+      :etag: '"86dabb67522dc2ff8e1b783d1714e48d"'
+      :finish_time: 1562572833
+      :gzip:
+        :line_count: 8361
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_5:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-7d5c8469c-m22k2_5
+      :content_length: 14787
+      :last_modified: 2019-07-02 03:00:10.000000000 +00:00
+      :etag: '"d4eba77b214bcf2b117ebfce883052e4"'
+      :finish_time: 1562572833
+      :gzip:
+        :line_count: 3101
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_6:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-7d5c8469c-m22k2_6
+      :content_length: 37456
+      :last_modified: 2019-07-02 03:30:11.000000000 +00:00
+      :etag: '"8653ef522ebb0b169c44b0787bfbeeca"'
+      :finish_time: 1562572835
+      :gzip:
+        :line_count: 6947
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_7:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-7d5c8469c-m22k2_7
+      :content_length: 9424
+      :last_modified: 2019-07-02 04:00:13.000000000 +00:00
+      :etag: '"8c8cbe102c8f99638fce544ad3a68f8b"'
+      :finish_time: 1562572835
+      :gzip:
+        :line_count: 1837
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_8:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-7d5c8469c-m22k2_8
+      :content_length: 10424
+      :last_modified: 2019-07-02 04:30:14.000000000 +00:00
+      :etag: '"c0980bfcdbe3f1ead976e0d897925f5e"'
+      :finish_time: 1562572836
+      :gzip:
+        :line_count: 2171
+    :shark-asset-usage-deployment-7d5c8469c-m22k2_9:
+      :key: AssetUsage/qaqc/2019/07/02/shark-asset-usage-deployment-7d5c8469c-m22k2_9
+      :content_length: 33255
+      :last_modified: 2019-07-02 05:00:17.000000000 +00:00
+      :etag: '"0a018c74e0c2a765b967a390e1d2f6c7"'
+      :finish_time: 1562572837
+      :gzip:
+        :line_count: 8544
+  :2019/07/03:
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_002:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_002
+      :content_length: 3456
+      :last_modified: 2019-07-03 01:30:07.000000000 +00:00
+      :etag: '"5cf6b4494dba219dba6a112465686832"'
+      :finish_time: 1562572838
+      :gzip:
+        :line_count: 264
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_003:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_003
+      :content_length: 26471
+      :last_modified: 2019-07-03 02:00:08.000000000 +00:00
+      :etag: '"9f57d46d0ab2ae6c82f5979087bf7eff"'
+      :finish_time: 1562572839
+      :gzip:
+        :line_count: 2612
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_004:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_004
+      :content_length: 34636
+      :last_modified: 2019-07-03 02:30:10.000000000 +00:00
+      :etag: '"320267f1eb44765ad665343724cb5deb"'
+      :finish_time: 1562572840
+      :gzip:
+        :line_count: 3971
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_005:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_005
+      :content_length: 13536
+      :last_modified: 2019-07-03 03:00:11.000000000 +00:00
+      :etag: '"4b08761e7a0e055aebc481d07361c470"'
+      :finish_time: 1562572840
+      :gzip:
+        :line_count: 1502
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_006:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_006
+      :content_length: 54535
+      :last_modified: 2019-07-03 03:30:12.000000000 +00:00
+      :etag: '"0fe7f5b7163fbbfa21f9fffc94791f86"'
+      :finish_time: 1562572842
+      :gzip:
+        :line_count: 10031
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_007:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_007
+      :content_length: 127500
+      :last_modified: 2019-07-03 04:00:13.000000000 +00:00
+      :etag: '"f4179c34c0f67c049e1fea6da99fa722"'
+      :finish_time: 1562572848
+      :gzip:
+        :line_count: 38285
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_008:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_008
+      :content_length: 44717
+      :last_modified: 2019-07-03 04:30:14.000000000 +00:00
+      :etag: '"5deb383273d4fcd1a87d950887f36eec"'
+      :finish_time: 1562572852
+      :gzip:
+        :line_count: 12348
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_009:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_009
+      :content_length: 73131
+      :last_modified: 2019-07-03 05:00:15.000000000 +00:00
+      :etag: '"9567b5f3566554eff1182675e0f4e2af"'
+      :finish_time: 1562572855
+      :gzip:
+        :line_count: 18264
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_010:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_010
+      :content_length: 63159
+      :last_modified: 2019-07-03 05:30:16.000000000 +00:00
+      :etag: '"e60a8a7a00a58593f2797f79981f12b5"'
+      :finish_time: 1562572859
+      :gzip:
+        :line_count: 19867
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_011:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_011
+      :content_length: 58577
+      :last_modified: 2019-07-03 06:00:18.000000000 +00:00
+      :etag: '"66db353ba9b85bc9e65c6cc1124a233a"'
+      :finish_time: 1562572864
+      :gzip:
+        :line_count: 14321
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_012:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_012
+      :content_length: 64587
+      :last_modified: 2019-07-03 06:30:18.000000000 +00:00
+      :etag: '"a503a2321dbc758ae3d3068d52b5adc4"'
+      :finish_time: 1562572867
+      :gzip:
+        :line_count: 13389
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_013:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_013
+      :content_length: 9583
+      :last_modified: 2019-07-03 07:00:19.000000000 +00:00
+      :etag: '"9e7603bfedd589d9d0cac56a4c2d75cf"'
+      :finish_time: 1562572868
+      :gzip:
+        :line_count: 1011
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_014:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_014
+      :content_length: 8858
+      :last_modified: 2019-07-03 07:30:21.000000000 +00:00
+      :etag: '"6cdea6737e9f2b2d409255c511dcddbd"'
+      :finish_time: 1562572868
+      :gzip:
+        :line_count: 923
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_015:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_015
+      :content_length: 44903
+      :last_modified: 2019-07-03 08:00:22.000000000 +00:00
+      :etag: '"32c9634114c54e8c1269916b73964d79"'
+      :finish_time: 1562572870
+      :gzip:
+        :line_count: 9176
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_016:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_016
+      :content_length: 141622
+      :last_modified: 2019-07-03 08:30:24.000000000 +00:00
+      :etag: '"a5c64df260c511d24a057ad50687bf2e"'
+      :finish_time: 1562572875
+      :gzip:
+        :line_count: 35773
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_017:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_017
+      :content_length: 67350
+      :last_modified: 2019-07-03 09:00:24.000000000 +00:00
+      :etag: '"c2ad97c51bd041f9710ec3273ded25b8"'
+      :finish_time: 1562572879
+      :gzip:
+        :line_count: 12682
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_018:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_018
+      :content_length: 99739
+      :last_modified: 2019-07-03 09:30:26.000000000 +00:00
+      :etag: '"3eaa23b8608687ff01c570232b41def1"'
+      :finish_time: 1562572884
+      :gzip:
+        :line_count: 31615
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_019:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_019
+      :content_length: 29144
+      :last_modified: 2019-07-03 10:00:26.000000000 +00:00
+      :etag: '"0eb3b5af7f918dcedc15ee0ac5f8b696"'
+      :finish_time: 1562572886
+      :gzip:
+        :line_count: 3136
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_020:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_020
+      :content_length: 77919
+      :last_modified: 2019-07-03 10:30:27.000000000 +00:00
+      :etag: '"83fb94c82ed2faab8550e0b74c46fbd3"'
+      :finish_time: 1562572889
+      :gzip:
+        :line_count: 17110
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_021:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_021
+      :content_length: 66983
+      :last_modified: 2019-07-03 11:00:28.000000000 +00:00
+      :etag: '"7a2c9489a3b72ae9a368916028ae3862"'
+      :finish_time: 1562572893
+      :gzip:
+        :line_count: 15669
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_022:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_022
+      :content_length: 33013
+      :last_modified: 2019-07-03 11:30:29.000000000 +00:00
+      :etag: '"8ad113944ded777bac3816f153f27007"'
+      :finish_time: 1562572895
+      :gzip:
+        :line_count: 7247
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_023:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_023
+      :content_length: 47405
+      :last_modified: 2019-07-03 12:00:30.000000000 +00:00
+      :etag: '"c3ad9095114a3d485056095e00e3a956"'
+      :finish_time: 1562572897
+      :gzip:
+        :line_count: 8844
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_024:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_024
+      :content_length: 39525
+      :last_modified: 2019-07-03 12:30:32.000000000 +00:00
+      :etag: '"79fcea6259011595f44a71d635287077"'
+      :finish_time: 1562572900
+      :gzip:
+        :line_count: 11251
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_025:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_025
+      :content_length: 1377
+      :last_modified: 2019-07-03 13:00:33.000000000 +00:00
+      :etag: '"db493b058f9c1c6bb0c3809c1861cb25"'
+      :finish_time: 1562572900
+      :gzip:
+        :line_count: 74
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_026:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_026
+      :content_length: 12331
+      :last_modified: 2019-07-03 13:30:35.000000000 +00:00
+      :etag: '"5cb79df06a4d3e863d63b48bc858266e"'
+      :finish_time: 1562572901
+      :gzip:
+        :line_count: 1372
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_027:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_027
+      :content_length: 12212
+      :last_modified: 2019-07-03 14:00:36.000000000 +00:00
+      :etag: '"1c65290d51d565257452e958edcfe5db"'
+      :finish_time: 1562572901
+      :gzip:
+        :line_count: 1095
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_028:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_028
+      :content_length: 18999
+      :last_modified: 2019-07-03 14:30:38.000000000 +00:00
+      :etag: '"7b76b7ebab13e4e64b0b21c620df6562"'
+      :finish_time: 1562572902
+      :gzip:
+        :line_count: 3889
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_029:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_029
+      :content_length: 25424
+      :last_modified: 2019-07-03 15:00:39.000000000 +00:00
+      :etag: '"e1963abfc7735b35b6c743a9ab917e3b"'
+      :finish_time: 1562572904
+      :gzip:
+        :line_count: 9476
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_030:
+      :key: AssetUsage/qaqc/2019/07/03/shark-asset-usage-deployment-5cdfd47775-g5tc4_030
+      :content_length: 8294
+      :last_modified: 2019-07-03 15:30:41.000000000 +00:00
+      :etag: '"d9ba61897d8121e2bdd77b3baa6c638e"'
+      :finish_time: 1562572904
+      :gzip:
+        :line_count: 887
+  :2019/07/04:
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_002:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_002
+      :content_length: 7471
+      :last_modified: 2019-07-04 01:30:06.000000000 +00:00
+      :etag: '"b89446c7e536d8ebcea54003f218853d"'
+      :finish_time: 1562572905
+      :gzip:
+        :line_count: 716
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_003:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_003
+      :content_length: 26578
+      :last_modified: 2019-07-04 02:00:08.000000000 +00:00
+      :etag: '"ccff57440ae6b1db78e846de58cf7f47"'
+      :finish_time: 1562572906
+      :gzip:
+        :line_count: 2812
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_004:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_004
+      :content_length: 2531
+      :last_modified: 2019-07-04 02:30:09.000000000 +00:00
+      :etag: '"abb7e75a49135ec023b87c07156e257e"'
+      :finish_time: 1562572906
+      :gzip:
+        :line_count: 231
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_005:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_005
+      :content_length: 2759
+      :last_modified: 2019-07-04 03:00:11.000000000 +00:00
+      :etag: '"d3a0e605c1ef13b2e5558a9c72e5ef2d"'
+      :finish_time: 1562572906
+      :gzip:
+        :line_count: 264
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_006:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_006
+      :content_length: 1639
+      :last_modified: 2019-07-04 03:30:12.000000000 +00:00
+      :etag: '"68814bc938f586647ccbceb5ae2aa1a3"'
+      :finish_time: 1562572907
+      :gzip:
+        :line_count: 156
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_007:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_007
+      :content_length: 26117
+      :last_modified: 2019-07-04 04:00:14.000000000 +00:00
+      :etag: '"4a7468788a16f3e59b8f967abf10eac0"'
+      :finish_time: 1562572908
+      :gzip:
+        :line_count: 7266
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_008:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_008
+      :content_length: 105135
+      :last_modified: 2019-07-04 04:30:17.000000000 +00:00
+      :etag: '"84bd27d7118a2d3994da03fe937de95c"'
+      :finish_time: 1562572914
+      :gzip:
+        :line_count: 36608
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_009:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_009
+      :content_length: 56241
+      :last_modified: 2019-07-04 05:00:18.000000000 +00:00
+      :etag: '"cb76440bcad22ebb32a24b33a48ef022"'
+      :finish_time: 1562572918
+      :gzip:
+        :line_count: 17810
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_010:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_010
+      :content_length: 83295
+      :last_modified: 2019-07-04 05:30:19.000000000 +00:00
+      :etag: '"384f3da4f99c412eab6ec9892f75cc5d"'
+      :finish_time: 1562572924
+      :gzip:
+        :line_count: 28006
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_011:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_011
+      :content_length: 42967
+      :last_modified: 2019-07-04 06:00:20.000000000 +00:00
+      :etag: '"8c9aaf5e7226b465df5ae07d1e539c99"'
+      :finish_time: 1562572928
+      :gzip:
+        :line_count: 17163
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_012:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_012
+      :content_length: 18662
+      :last_modified: 2019-07-04 06:30:21.000000000 +00:00
+      :etag: '"d801f3994a47afc67871671006f8ee22"'
+      :finish_time: 1562572930
+      :gzip:
+        :line_count: 5631
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_015:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_015
+      :content_length: 44231
+      :last_modified: 2019-07-04 08:00:26.000000000 +00:00
+      :etag: '"11bdc1b34b37794ff6f081ca3dbfc2c3"'
+      :finish_time: 1562572933
+      :gzip:
+        :line_count: 12829
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_016:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_016
+      :content_length: 29912
+      :last_modified: 2019-07-04 08:30:27.000000000 +00:00
+      :etag: '"82f7e631c122367307a276a5f96128df"'
+      :finish_time: 1562572935
+      :gzip:
+        :line_count: 11918
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_017:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_017
+      :content_length: 31383
+      :last_modified: 2019-07-04 09:00:28.000000000 +00:00
+      :etag: '"ca70a57857adeb97259305d7a53506df"'
+      :finish_time: 1562572936
+      :gzip:
+        :line_count: 9866
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_018:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_018
+      :content_length: 23371
+      :last_modified: 2019-07-04 09:30:30.000000000 +00:00
+      :etag: '"19bca738541b0435381ba49feaad5c6f"'
+      :finish_time: 1562572938
+      :gzip:
+        :line_count: 6585
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_020:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_020
+      :content_length: 20621
+      :last_modified: 2019-07-04 10:30:33.000000000 +00:00
+      :etag: '"d2ddad6cff4180275fc0c3797bb9788c"'
+      :finish_time: 1562572939
+      :gzip:
+        :line_count: 6207
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_021:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_021
+      :content_length: 31517
+      :last_modified: 2019-07-04 11:00:34.000000000 +00:00
+      :etag: '"ff41f34f3e3e71b0ccfcf3319ef72db9"'
+      :finish_time: 1562572940
+      :gzip:
+        :line_count: 8183
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_023:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_023
+      :content_length: 32690
+      :last_modified: 2019-07-04 12:00:37.000000000 +00:00
+      :etag: '"8142cf71b8aa75b7ddfff1b5121630ac"'
+      :finish_time: 1562572943
+      :gzip:
+        :line_count: 12538
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_024:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_024
+      :content_length: 31840
+      :last_modified: 2019-07-04 12:30:40.000000000 +00:00
+      :etag: '"15fe2b43349f8fecad9a9f3362be4c8e"'
+      :finish_time: 1562572945
+      :gzip:
+        :line_count: 11753
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_025:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_025
+      :content_length: 30384
+      :last_modified: 2019-07-04 13:00:40.000000000 +00:00
+      :etag: '"fd11a034d498d7234cc33970b4949f8e"'
+      :finish_time: 1562572946
+      :gzip:
+        :line_count: 9169
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_026:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_026
+      :content_length: 46057
+      :last_modified: 2019-07-04 13:30:41.000000000 +00:00
+      :etag: '"eb86a36b13060f307f49d3b6cc93ec7e"'
+      :finish_time: 1562572949
+      :gzip:
+        :line_count: 16440
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_027:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_027
+      :content_length: 1565
+      :last_modified: 2019-07-04 14:00:42.000000000 +00:00
+      :etag: '"e1edd510a06b4a7d746b4fed7856a75e"'
+      :finish_time: 1562572950
+      :gzip:
+        :line_count: 241
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_028:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_028
+      :content_length: 91880
+      :last_modified: 2019-07-04 14:30:43.000000000 +00:00
+      :etag: '"c02769c11cb66aedacf4cb5ff98a9dd9"'
+      :finish_time: 1562572955
+      :gzip:
+        :line_count: 30598
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_029:
+      :key: AssetUsage/qaqc/2019/07/04/shark-asset-usage-deployment-5cdfd47775-g5tc4_029
+      :content_length: 104894
+      :last_modified: 2019-07-04 15:00:45.000000000 +00:00
+      :etag: '"31d274530cec8b2c40a3b192b1fb4b6f"'
+      :finish_time: 1562572962
+      :gzip:
+        :line_count: 34789
+  :2019/07/05:
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_007:
+      :key: AssetUsage/qaqc/2019/07/05/shark-asset-usage-deployment-5cdfd47775-g5tc4_007
+      :content_length: 27642
+      :last_modified: 2019-07-05 04:00:15.000000000 +00:00
+      :etag: '"2a90784fdda17949f5276df603bcc2d9"'
+      :finish_time: 1562572965
+      :gzip:
+        :line_count: 7203
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_008:
+      :key: AssetUsage/qaqc/2019/07/05/shark-asset-usage-deployment-5cdfd47775-g5tc4_008
+      :content_length: 18582
+      :last_modified: 2019-07-05 04:30:16.000000000 +00:00
+      :etag: '"f3a7c2bfdcdda23f92bae98f4f171442"'
+      :finish_time: 1562572966
+      :gzip:
+        :line_count: 5830
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_009:
+      :key: AssetUsage/qaqc/2019/07/05/shark-asset-usage-deployment-5cdfd47775-g5tc4_009
+      :content_length: 11991
+      :last_modified: 2019-07-05 05:00:18.000000000 +00:00
+      :etag: '"9639aca8aae94362eb5fc68ce066d6d1"'
+      :finish_time: 1562572967
+      :gzip:
+        :line_count: 3077
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_010:
+      :key: AssetUsage/qaqc/2019/07/05/shark-asset-usage-deployment-5cdfd47775-g5tc4_010
+      :content_length: 13570
+      :last_modified: 2019-07-05 05:30:19.000000000 +00:00
+      :etag: '"d20f009ae55ba7ad10a3f5b0da5be524"'
+      :finish_time: 1562572968
+      :gzip:
+        :line_count: 3803
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_011:
+      :key: AssetUsage/qaqc/2019/07/05/shark-asset-usage-deployment-5cdfd47775-g5tc4_011
+      :content_length: 1839
+      :last_modified: 2019-07-05 06:00:21.000000000 +00:00
+      :etag: '"6a80cf5a5433dce868dd20dfb723e4c5"'
+      :finish_time: 1562572968
+      :gzip:
+        :line_count: 224
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_012:
+      :key: AssetUsage/qaqc/2019/07/05/shark-asset-usage-deployment-5cdfd47775-g5tc4_012
+      :content_length: 32069
+      :last_modified: 2019-07-05 06:30:22.000000000 +00:00
+      :etag: '"787cbd80fe2ae40d2f13f935cdae5ad2"'
+      :finish_time: 1562572970
+      :gzip:
+        :line_count: 9650
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_013:
+      :key: AssetUsage/qaqc/2019/07/05/shark-asset-usage-deployment-5cdfd47775-g5tc4_013
+      :content_length: 17115
+      :last_modified: 2019-07-05 07:00:25.000000000 +00:00
+      :etag: '"f45fca5c476cc89cf791dbc0a2bc72d3"'
+      :finish_time: 1562572971
+      :gzip:
+        :line_count: 3696
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_014:
+      :key: AssetUsage/qaqc/2019/07/05/shark-asset-usage-deployment-5cdfd47775-g5tc4_014
+      :content_length: 5170
+      :last_modified: 2019-07-05 07:30:25.000000000 +00:00
+      :etag: '"15c7755631f681ad51cda9c4d711a50a"'
+      :finish_time: 1562572971
+      :gzip:
+        :line_count: 429
+    :shark-asset-usage-deployment-5cdfd47775-g5tc4_015:
+      :key: AssetUsage/qaqc/2019/07/05/shark-asset-usage-deployment-5cdfd47775-g5tc4_015
+      :content_length: 14068
+      :last_modified: 2019-07-05 08:00:27.000000000 +00:00
+      :etag: '"dd738ba0406e5245e98a4ba5a4e640b6"'
+      :finish_time: 1562572972
+      :gzip:
+        :line_count: 1527
+  :2019/07/06: {}
+  :2019/07/07: {}
+  :2019/07/08:
+    :shark-asset-usage-deployment-96f896876-7h2nl_003:
+      :key: AssetUsage/qaqc/2019/07/08/shark-asset-usage-deployment-96f896876-7h2nl_003
+      :content_length: 9799
+      :last_modified: 2019-07-08 02:00:09.000000000 +00:00
+      :etag: '"50ea9130b2ac958c4becdf1c8e6fe2f7"'
+      :finish_time: 1562574032
+      :gzip:
+        :line_count: 1082
+    :shark-asset-usage-deployment-96f896876-7h2nl_004:
+      :key: AssetUsage/qaqc/2019/07/08/shark-asset-usage-deployment-96f896876-7h2nl_004
+      :content_length: 8404
+      :last_modified: 2019-07-08 02:30:10.000000000 +00:00
+      :etag: '"b53b37a00910f58e620619628d8bc6d3"'
+      :finish_time: 1562574032
+      :gzip:
+        :line_count: 979
+    :shark-asset-usage-deployment-96f896876-7h2nl_005:
+      :key: AssetUsage/qaqc/2019/07/08/shark-asset-usage-deployment-96f896876-7h2nl_005
+      :content_length: 4848
+      :last_modified: 2019-07-08 03:00:12.000000000 +00:00
+      :etag: '"6602b86bec0f10add63d40a346a06f74"'
+      :finish_time: 1562574033
+      :gzip:
+        :line_count: 497
+    :shark-asset-usage-deployment-96f896876-7h2nl_006:
+      :key: AssetUsage/qaqc/2019/07/08/shark-asset-usage-deployment-96f896876-7h2nl_006
+      :content_length: 1684
+      :last_modified: 2019-07-08 03:30:13.000000000 +00:00
+      :etag: '"313971cc282819426baf56a3797df254"'
+      :finish_time: 1562574033
+      :gzip:
+        :line_count: 136
+    :shark-asset-usage-deployment-96f896876-7h2nl_007:
+      :key: AssetUsage/qaqc/2019/07/08/shark-asset-usage-deployment-96f896876-7h2nl_007
+      :content_length: 1677
+      :last_modified: 2019-07-08 04:00:15.000000000 +00:00
+      :etag: '"81c7d41468c43684ed44b06c6fe711a0"'
+      :finish_time: 1562574033
+      :gzip:
+        :line_count: 157
+    :shark-asset-usage-deployment-96f896876-7h2nl_008:
+      :key: AssetUsage/qaqc/2019/07/08/shark-asset-usage-deployment-96f896876-7h2nl_008
+      :content_length: 1531
+      :last_modified: 2019-07-08 04:30:17.000000000 +00:00
+      :etag: '"d5abee4f67c772ed27ba391f4054bbbd"'
+      :finish_time: 1562574034
+      :gzip:
+        :line_count: 124
+    :shark-asset-usage-deployment-96f896876-7h2nl_011:
+      :key: AssetUsage/qaqc/2019/07/08/shark-asset-usage-deployment-96f896876-7h2nl_011
+      :content_length: 6122
+      :last_modified: 2019-07-08 06:00:22.000000000 +00:00
+      :etag: '"7a1805f2c6c204d19fa1ff81309f8239"'
+      :finish_time: 1562574034
+      :gzip:
+        :line_count: 615
+    :shark-asset-usage-deployment-96f896876-7h2nl_012:
+      :key: AssetUsage/qaqc/2019/07/08/shark-asset-usage-deployment-96f896876-7h2nl_012
+      :content_length: 12585
+      :last_modified: 2019-07-08 06:30:23.000000000 +00:00
+      :etag: '"bcb8e67b221d3f7a7343c4db358eec55"'
+      :finish_time: 1562574034
+      :gzip:
+        :line_count: 1306
+    :shark-asset-usage-deployment-96f896876-7h2nl_015:
+      :key: AssetUsage/qaqc/2019/07/08/shark-asset-usage-deployment-96f896876-7h2nl_015
+      :content_length: 4284
+      :last_modified: 2019-07-08 08:00:28.000000000 +00:00
+      :etag: '"a676d2b4af95c5d18a620db72fe6c30a"'
+      :finish_time: 1562574035
+      :gzip:
+        :line_count: 323
+    :shark-asset-usage-deployment-96f896876-7h2nl_017:
+      :key: AssetUsage/qaqc/2019/07/08/shark-asset-usage-deployment-96f896876-7h2nl_017
+      :content_length: 2020
+      :last_modified: 2019-07-08 09:00:31.000000000 +00:00
+      :etag: '"e9c82f949d39fc12fa1fb1d5edd1fa03"'
+      :finish_time: 1562652058
+      :gzip:
+        :line_count: 144
+    :shark-asset-usage-deployment-96f896876-7h2nl_018:
+      :key: AssetUsage/qaqc/2019/07/08/shark-asset-usage-deployment-96f896876-7h2nl_018
+      :content_length: 481
+      :last_modified: 2019-07-08 09:30:33.000000000 +00:00
+      :etag: '"08c3f44003b58123881b0c240cc27628"'
+      :finish_time: 1562652059
+      :gzip:
+        :line_count: 17
+    :shark-asset-usage-deployment-96f896876-7h2nl_019:
+      :key: AssetUsage/qaqc/2019/07/08/shark-asset-usage-deployment-96f896876-7h2nl_019
+      :content_length: 355
+      :last_modified: 2019-07-08 10:00:35.000000000 +00:00
+      :etag: '"cb6881c6def3ee77e6c694df31847f2f"'
+      :finish_time: 1562652059
+      :gzip:
+        :line_count: 11
+    :shark-asset-usage-deployment-96f896876-7h2nl_020:
+      :key: AssetUsage/qaqc/2019/07/08/shark-asset-usage-deployment-96f896876-7h2nl_020
+      :content_length: 2231
+      :last_modified: 2019-07-08 10:30:36.000000000 +00:00
+      :etag: '"e1c13b426a69556eb41ed534176d97f0"'
+      :finish_time: 1562652060
+      :gzip:
+        :line_count: 210
+    :shark-asset-usage-deployment-96f896876-7h2nl_021:
+      :key: AssetUsage/qaqc/2019/07/08/shark-asset-usage-deployment-96f896876-7h2nl_021
+      :content_length: 2432
+      :last_modified: 2019-07-08 11:00:38.000000000 +00:00
+      :etag: '"c5747553810c7a48a1c6e6a0fb5ac783"'
+      :finish_time: 1562652060
+      :gzip:
+        :line_count: 198
+  :2019/07/09:
+    :shark-asset-usage-deployment-96f896876-7h2nl_002:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-96f896876-7h2nl_002
+      :content_length: 1128
+      :last_modified: 2019-07-09 01:30:06.000000000 +00:00
+      :etag: '"e5f43081bd1c78184ccb9e0437d25678"'
+      :finish_time: 1562652198
+      :gzip:
+        :line_count: 75
+    :shark-asset-usage-deployment-96f896876-7h2nl_003:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-96f896876-7h2nl_003
+      :content_length: 6448
+      :last_modified: 2019-07-09 02:00:08.000000000 +00:00
+      :etag: '"4a350270e2ecfad8617bcf5fe679de64"'
+      :finish_time: 1562652199
+      :gzip:
+        :line_count: 702
+    :shark-asset-usage-deployment-96f896876-7h2nl_004:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-96f896876-7h2nl_004
+      :content_length: 3319
+      :last_modified: 2019-07-09 02:30:10.000000000 +00:00
+      :etag: '"d45feb1b02a46093ce52fbdf1befb0d2"'
+      :finish_time: 1562652199
+      :gzip:
+        :line_count: 255
+    :shark-asset-usage-deployment-96f896876-7h2nl_005:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-96f896876-7h2nl_005
+      :content_length: 712
+      :last_modified: 2019-07-09 03:00:11.000000000 +00:00
+      :etag: '"a178d49aa2b6f75a0792a905d1cc0f1b"'
+      :finish_time: 1562652200
+      :gzip:
+        :line_count: 52
+    :shark-asset-usage-deployment-96f896876-7h2nl_006:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-96f896876-7h2nl_006
+      :content_length: 359
+      :last_modified: 2019-07-09 03:30:13.000000000 +00:00
+      :etag: '"ab6c430f0416de8ea892a318a79a157e"'
+      :finish_time: 1562652200
+      :gzip:
+        :line_count: 10
+    :shark-asset-usage-deployment-96f896876-7h2nl_008:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-96f896876-7h2nl_008
+      :content_length: 3702
+      :last_modified: 2019-07-09 04:30:16.000000000 +00:00
+      :etag: '"c170e9d510e4257131065393c635220f"'
+      :finish_time: 1562652201
+      :gzip:
+        :line_count: 364
+    :shark-asset-usage-deployment-96f896876-7h2nl_009:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-96f896876-7h2nl_009
+      :content_length: 1839
+      :last_modified: 2019-07-09 05:00:18.000000000 +00:00
+      :etag: '"473054a8c2d8e709620722f225264a5a"'
+      :finish_time: 1562652202
+      :gzip:
+        :line_count: 118
+    :shark-asset-usage-deployment-96f896876-7h2nl_010:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-96f896876-7h2nl_010
+      :content_length: 1888
+      :last_modified: 2019-07-09 05:30:19.000000000 +00:00
+      :etag: '"ae96c9033c105aaddae0043e9197852b"'
+      :finish_time: 1562652202
+      :gzip:
+        :line_count: 203
+    :shark-asset-usage-deployment-96f896876-7h2nl_011:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-96f896876-7h2nl_011
+      :content_length: 903
+      :last_modified: 2019-07-09 06:00:21.000000000 +00:00
+      :etag: '"2a08dc98aea3fcb9b7e19fe19bcc7223"'
+      :finish_time: 1562652203
+      :gzip:
+        :line_count: 49
+    :shark-asset-usage-deployment-847c845d9d-7dshc_001:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-847c845d9d-7dshc_001
+      :content_length: 1315
+      :last_modified: 2019-07-09 08:59:50.000000000 +00:00
+      :etag: '"338bc12b62806c5cb8afa8f187f624d5"'
+      :finish_time: 1562724782
+      :gzip:
+        :line_count: 72
+    :shark-asset-usage-deployment-847c845d9d-7dshc_003:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-847c845d9d-7dshc_003
+      :content_length: 1425
+      :last_modified: 2019-07-09 09:59:58.000000000 +00:00
+      :etag: '"702225611647dda6bfdd27f206759d3e"'
+      :finish_time: 1562724783
+      :gzip:
+        :line_count: 84
+    :shark-asset-usage-deployment-847c845d9d-7dshc_004:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-847c845d9d-7dshc_004
+      :content_length: 665
+      :last_modified: 2019-07-09 10:29:54.000000000 +00:00
+      :etag: '"6672e2abeeea7d23cf2abc5711e5570a"'
+      :finish_time: 1562724783
+      :gzip:
+        :line_count: 27
+    :shark-asset-usage-deployment-847c845d9d-7dshc_005:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-847c845d9d-7dshc_005
+      :content_length: 7351
+      :last_modified: 2019-07-09 10:59:55.000000000 +00:00
+      :etag: '"d215e27efc339faa7078b429bb3cd53d"'
+      :finish_time: 1562724784
+      :gzip:
+        :line_count: 668
+    :shark-asset-usage-deployment-847c845d9d-7dshc_006:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-847c845d9d-7dshc_006
+      :content_length: 1021
+      :last_modified: 2019-07-09 11:29:57.000000000 +00:00
+      :etag: '"ccb66c6dc50d449867ad71835ea92851"'
+      :finish_time: 1562724785
+      :gzip:
+        :line_count: 49
+    :shark-asset-usage-deployment-96f896876-7h2nl_012:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-96f896876-7h2nl_012
+      :content_length: 1571
+      :last_modified: 2019-07-09 06:30:24.000000000 +00:00
+      :etag: '"f64f4db8a749506be802181b99a8a463"'
+      :finish_time: 1562724785
+      :gzip:
+        :line_count: 121
+    :shark-asset-usage-deployment-96f896876-7h2nl_013:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-96f896876-7h2nl_013
+      :content_length: 382
+      :last_modified: 2019-07-09 07:00:24.000000000 +00:00
+      :etag: '"b49b2e9dacb6c9f1e72548a3892860f2"'
+      :finish_time: 1562724785
+      :gzip:
+        :line_count: 12
+    :shark-asset-usage-deployment-96f896876-7h2nl_014:
+      :key: AssetUsage/qaqc/2019/07/09/shark-asset-usage-deployment-96f896876-7h2nl_014
+      :content_length: 10879
+      :last_modified: 2019-07-09 07:30:26.000000000 +00:00
+      :etag: '"221f3eb5169ae5c7bb148ee7b82b29f3"'
+      :finish_time: 1562724787
+      :gzip:
+        :line_count: 1143
+  :2019/07/10:
+    :shark-asset-usage-deployment-847c845d9d-7dshc_002:
+      :key: AssetUsage/qaqc/2019/07/10/shark-asset-usage-deployment-847c845d9d-7dshc_002
+      :content_length: 4285
+      :last_modified: 2019-07-10 01:30:06.000000000 +00:00
+      :etag: '"3f5e2815a4f686ea0615bfe01861905e"'
+      :finish_time: 1562724852
+      :gzip:
+        :line_count: 368
+    :shark-asset-usage-deployment-847c845d9d-7dshc_003:
+      :key: AssetUsage/qaqc/2019/07/10/shark-asset-usage-deployment-847c845d9d-7dshc_003
+      :content_length: 6584
+      :last_modified: 2019-07-10 02:00:08.000000000 +00:00
+      :etag: '"21c686ec9f013c8c6713f73ec90dd658"'
+      :finish_time: 1562724853
+      :gzip:
+        :line_count: 619
