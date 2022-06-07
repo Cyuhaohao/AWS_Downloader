@@ -22,7 +22,8 @@ GEM
     daemons (1.2.6)
     digest-crc (0.4.1)
     ione (1.2.4)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
+    mysql2 (0.5.2)
     mysql2 (0.5.2-x64-mingw32)
     parslet (1.8.2)
     ruby-kafka (0.7.8)
@@ -32,6 +33,7 @@ GEM
 
 PLATFORMS
   x64-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   aws-sdk-s3 (~> 1.0)
